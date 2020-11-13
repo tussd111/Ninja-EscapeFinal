@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ninja Escape:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Ninja_Escape_jar</output-path>
+    <root id="archive" name="Ninja Escape.jar">
+      <element id="module-output" name="Ninja Escape" />
+    </root>
+  </artifact>
+</component>
