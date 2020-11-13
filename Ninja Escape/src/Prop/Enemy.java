@@ -1,7 +1,7 @@
 package Prop;
 
 import javax.swing.*;
-import java.awt.*;
+
 
 public class Enemy {
     private Integer xPos;
